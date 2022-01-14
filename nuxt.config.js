@@ -3,7 +3,7 @@ export default {
   target: "static",
   ssr: false,
   router: {
-    base: "/JorgesOS7/",
+    base: "/jorgesdev/",
   },
   head: {
     title: "Jorges Dev - Desenvolvedor Frontend",
