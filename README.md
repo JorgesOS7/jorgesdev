@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://JorgesOS7.github.io">🔗 Jorges Dev</a>
+  <a href="https://JorgesOS7.github.io/jorgesdev">🔗 Jorges Dev</a>
 </h1>
 <p align="left">🚀 Site construído através do curso da origamid.</p>
 <img src="https://img.shields.io/static/v1?label=Jorges&message=Portifólio&color=7159c1&style=for-the-badge&logo=nuxt.js"/>
