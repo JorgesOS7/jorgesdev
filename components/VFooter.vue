@@ -24,7 +24,7 @@
           <a href="tel:+5581998775010">+55 81 99877-5010</a>
         </li>
         <li class="text-2xl md:text-3xl text-white font-bold mb-8">
-          <a href="https://www.instagram.com/jorge.dev7/">@jorges.dev</a>
+          <a href="https://www.instagram.com/jorges.dev/">@jorges.dev</a>
         </li>
       </ul>
       <p class="text-lg text-[#8f8f8f]">Jorges. Alguns direitos reservados.</p>
