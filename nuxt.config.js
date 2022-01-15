@@ -3,7 +3,7 @@ export default {
   target: "static",
   ssr: false,
   router: {
-    base: "/jorgesdev/",
+    base: process.env.NODE_ENV === "production" ? "/jorgesdev/" : "/",
   },
   head: {
     title: "Jorges Dev - Desenvolvedor Frontend",

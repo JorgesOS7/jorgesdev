@@ -27,7 +27,9 @@
           <a href="https://www.instagram.com/jorges.dev/">@jorges.dev</a>
         </li>
       </ul>
-      <p class="text-lg text-[#8f8f8f]">Jorges. Alguns direitos reservados.</p>
+      <p class="text-base sm:text-lg text-[#8f8f8f]">
+        Jorges. Alguns direitos reservados.
+      </p>
     </div>
   </footer>
 </template>

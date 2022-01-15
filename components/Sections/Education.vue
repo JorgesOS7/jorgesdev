@@ -38,7 +38,7 @@
         >
           Minha mais recente experiência acadêmica foi o
           <strong class="text-white">Curso Técnico</strong> em TI. Além disso,
-          me matenho sempre atualizado com cursos itensivos online
+          me matenho sempre atualizado com cursos intensivos online
         </p>
 
         <ul class="flex flex-wrap gap-5 mb-16 text-white">
@@ -57,7 +57,7 @@
             </h3>
             <p class="text-lg text-[#a3a3a3]">
               Leiaut Cariele
-              <span class="text-sm block text-right">2017 🎓</span>
+              <span class="text-sm block text-right">2017 - 2021 🎓</span>
             </p>
           </li>
           <li
@@ -93,7 +93,7 @@
                 cap
               "
             >
-              Cursos itensivos
+              Cursos intensivos
             </h3>
             <ul>
               <li class="flex justify-between text-lg text-white mb-5">
@@ -129,3 +129,24 @@
     </div>
   </section>
 </template>
+
+<style lang="postcss" scoped>
+.cap::before,
+.idioma::before {
+  @apply md:absolute mb-2;
+  content: "";
+  display: block;
+  top: -4px;
+  left: -36px;
+  width: 24px;
+  height: 24px;
+}
+
+.cap::before {
+  background: url("~/static/cap.svg") no-repeat center center;
+}
+
+.idioma::before {
+  background: url("~/static/idiomas.svg") no-repeat center center;
+}
+</style>
